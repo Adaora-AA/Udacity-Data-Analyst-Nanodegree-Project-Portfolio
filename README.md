@@ -4,7 +4,7 @@
 
 ## Project Deliverables Summary
 
-1. Project 1 : Investigate a Dataset
+1. Project 1 : [Investigate a Dataset](https://github.com/Adaora-AA/Udacity-Data-Analyst-Nanodegree-Project-Portfolio/tree/master/1%20:%20Investigate%20a%20Dataset)
 
   - Analysis of a kaggle dataset containing 100k medical appointments in Brazil.
 
@@ -23,7 +23,7 @@ Contents:
 
 ---
 
-2. Project 2 : Gather, Wrangle and Analyze Data
+2. Project 2 :[Gather, Wrangle and Analyze Data](https://github.com/Adaora-AA/Udacity-Data-Analyst-Nanodegree-Project-Portfolio/tree/master/2%20:%20Gather%2C%20Wrangle%20and%20Analyze%20Data)
 
   - The goal of the project was to Gather data from different sources in a variety of formats, assess its quality and tidiness,clean it and perform some analysis to generate insight. 
   - Document the gathering, wrangling, cleaning and analysis process along with visualizations in an ipynb.
@@ -42,9 +42,9 @@ Tool: Jupyter Notebook (Python), VS Code
 #### Libraries: pandas, numpy, matplotlib, seaborn, tweepy, json, requests
 
 Contents:  
-wrangle_act.ipynb  
-wrangle_report.html    
-act_report.html
+Adaora_Asika_wrangle_act.ipynb   
+wrangle_report.html      
+Asika_Adaora_act_Report.pdf  
 twitter_archive_enhanced.csv  
 image_predictions.tsv  
 tweet_json.txt  
@@ -53,9 +53,9 @@ twitter_archive_master.csv
 
 ---
 
-3. Project 3 : Data Visualization
+3. Project 3 : [Data Visualization](https://github.com/Adaora-AA/Udacity-Data-Analyst-Nanodegree-Project-Portfolio/tree/master/3%20:%20Data%20Visualization)
   
-  - The goal of this project was to perform wrangling operation on a dataset to extract a subset of relevant features, 
+  - The goal of this project was to perform wrangling operation on a [dataset]( https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) to extract a subset of relevant features, 
   and use Python visualization libraries to systematically explore the wrangled dataset,
   starting from univariate plots and building up to bivariate and multivariate plots
   - Produce a short presentation that illustrates interesting properties, trends, and relationships from the selected dataset, 
@@ -65,12 +65,11 @@ Tool: Jupter Notebook (Python)
 
 #### Libraries: pandas, numpy, matplotlib, seaborn
 
-Contents:  
-Communicate_Data_Findings-Prosper_Loan_Part1.ipynb  
-Communicate_Data_Findings-Prosper_Loan_Part1.html  
-Communicate_Data_Findings-Prosper_Loan_Part2.ipynb  
-Communicate_Data_Findings-Prosper_Loan_Part2.html  
-Communicate_Data_Findings-Prosper_Loan_Part2.slides.html (slide show)  
-readme.md  
-prosperLoanData.csv (Original datset)  
-prosperLoanData.csv (Wrangled subset)
+Contents:   
+Adaora_README.md  
+Adaora_Prosper_Loan_dataset_exploration.ipynb  
+Adaora_Prosper_Loan_dataset_exploration.html  
+Adaora_Part_II_slide_deck.html  
+Adaora_Part_II_slide_deck.ipynb  
+Adaora_Part_II_slide_deck.slides.html    
+prosperLoanData_clean.csv (Wrangled dataset)  
